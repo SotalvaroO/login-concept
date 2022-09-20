@@ -114,3 +114,7 @@ form {
   text-align: center;
   display: inline-block;
 }
+
+.container-border{
+  padding: 50px;
+}
